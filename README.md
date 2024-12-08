@@ -3,6 +3,7 @@
 ### Languages
 
 ![PHP](https://img.shields.io/badge/-php-000?&logo=php)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![GoLang](https://img.shields.io/badge/-GoLang-000?&logo=go&logoColor=007396)
@@ -11,6 +12,7 @@
 ### Technologies
 
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
